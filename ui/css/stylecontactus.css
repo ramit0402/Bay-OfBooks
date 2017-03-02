@@ -1,0 +1,56 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #fff;
+	background-image:url(../images/backgroundcus.jpg);
+    background-size: 1380px 1080px;
+}
+
+#header{
+	margin: 30px 200px 0px 200px;
+}
+
+#header img{
+	display: inline-block;
+	width: 100px;
+}
+
+#header h1{
+	display: inline-block;
+	font-size: 50px;
+}
+
+.blue-text{
+	color:#01519b;
+}
+
+#header  a{
+	text-decoration: none;
+	margin-top: 50px;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	float: right;
+}
+
+#content{
+	margin: 0px 200px;
+}
+
+#content img{
+	width:150px;
+	border-radius: 50%;
+	border: 5px solid white;
+	display: inline-block;
+	float: left;
+	margin-left: 50px;
+}
+
+p{
+	float: left;
+	font-size: 20px;
+	font-weight: bold;
+}
